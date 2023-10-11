@@ -1,5 +1,6 @@
 # belly-button-challenge
-Module 14 Challenge 
+
+Module 14 Challenge
 
 In this assignment, we will build an interactive dashboard to explore the Belly Button Biodiversity datasetLinks to an external site., which catalogs the microbes that colonize human navels.
 The dataset reveals that a small handful of microbial species (also called operational taxonomic units, or OTUs, in the study) were present in more than 70% of people, while the rest were relatively rare.
@@ -21,3 +22,7 @@ By completing this challenge we have successfully performed below:
 7.Adapt the Gauge Chart
 
 8.Created GitHub pages
+
+**Acknowledgements**
+
+1.Data samples from website 2u-data-curriculum-team
